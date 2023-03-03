@@ -15,7 +15,7 @@
     <meta name="twitter:title" content="Home | ActiveTK.jp">
     <meta name="twitter:description" content="URL短縮、QRコード作成、位置情報特定、NextIP、画像形式変換、ファイル暗号化、URLエンコード、Base64エンコードなどの、無料で使える便利ツールを提供させていただきます。">
     <meta name="twitter:image:src" content="https://www.activetk.jp/icon/index.jpg">
-    <meta property="og:title" content="Home | ActiveTK.jp">
+    <meta property="og:title" content="Home | 2b2t アース">
     <meta property="og:description" content="URL短縮、QRコード作成、位置情報特定、NextIP、画像形式変換、ファイル暗号化、URLエンコード、Base64エンコードなどの、無料で使える便利ツールを提供させていただきます。">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.activetk.jp/">
