@@ -1,2 +1,2 @@
 <h1>君ラッキーのサイト</h1>
-<a><h2>Twitterのリンク</h2></a>
+<a href=”//twitter.com/kimirraki/”>Twitter介</a>
