@@ -1,0 +1,59 @@
+body {
+  background-image: url('https://x.gd/xuob5');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.header {
+  background-color: white;
+  height: 30px;
+  width: 100%;
+  position: fixed;
+}
+
+.header-icon{
+  height: 30px;
+  width: 30px;
+}
+
+.header-title {
+  color: black;
+  font-weight: bold;
+  height: 30px;
+}
+
+.header-line {
+  padding-left: 50px;
+  height: 30px;
+  color: black;
+}
+
+.main {
+  padding-bottom: 20px;
+}
+
+.main h1 {
+  color: white;
+  padding-top: 100px;
+}
+
+.main-menu {}
+
+.main-img a {
+  opacity: 1;
+  color: blue;
+  font-weight: bold;
+  background-color: black;
+}
+
+.footer {
+  height: 30px;
+  padding-bottom: 10px;
+  background-color: #808080;
+}
+
+.footer p {
+  float: left;
+  padding-right: 30px;
+}
